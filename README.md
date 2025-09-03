@@ -1,9 +1,8 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://manujaravishka.io)
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 <h1 align="center">Hi 👋, I'm Manuja Ravishka</h1>
 <h3 align="center">🚀 A Passionate Frontend Developer from Sri Lanka</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ---
 
@@ -60,12 +59,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manujaravishka&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
-<p align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manujaravishka&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manujaravishka&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
-</p>
